@@ -1,4 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Welcome!
 ---
-Welcome to my digital garden!
+Welcome to my [[digital garden]]!

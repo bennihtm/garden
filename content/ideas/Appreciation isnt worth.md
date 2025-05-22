@@ -1,4 +1,7 @@
 ---
 title: Appreciation isn't worth
+aliases: 
+tags:
 ---
-blank
+
+a
